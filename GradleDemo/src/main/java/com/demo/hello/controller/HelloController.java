@@ -9,4 +9,3 @@ public class HelloController
 	  return "Welcome to my page"; 
   }
 }
-//testing pull 
